@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RenzoMike/todolist/static/css/main.84064a20.css",
+    "main.js": "/RenzoMike/todolist/static/js/main.67e254b8.js",
+    "index.html": "/RenzoMike/todolist/index.html",
+    "main.84064a20.css.map": "/RenzoMike/todolist/static/css/main.84064a20.css.map",
+    "main.67e254b8.js.map": "/RenzoMike/todolist/static/js/main.67e254b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84064a20.css",
+    "static/js/main.67e254b8.js"
+  ]
+}
