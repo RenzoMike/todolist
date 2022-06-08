@@ -1,5 +1,4 @@
 {
-  "homepage": ".",
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
@@ -53,5 +52,5 @@
   "bugs": {
     "url": "https://github.com/RenzoMike/todolist/issues"
   },
-  "homepage": "https://github.com/RenzoMike/todolist#readme"
+  "homepage": "."
 }
